@@ -1,0 +1,25 @@
+{
+    "name": "filet",
+    "version": "0.1.0",
+    "description": "Generator for skeleton app",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Igor Stojadinovic <mightytroll@gmail.com> (https://www.articodestudio.com/)",
+    "license": "ISC",
+    "dependencies": {
+        "camelcase": "^5.0.0",
+        "chalk": "^2.4.2",
+        "figlet": "^1.2.1",
+        "inquirer": "^6.2.2",
+        "shelljs": "^0.8.3"
+    },
+    "bin": {
+        "filet": "./index.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com:mightytroll/filet.git"
+    }
+}
