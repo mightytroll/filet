@@ -1,6 +1,6 @@
 {
     "name": "filet",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "description": "Generator for skeleton app",
     "main": "index.js",
     "scripts": {
